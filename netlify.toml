@@ -1,0 +1,3 @@
+[build]
+  publish = "_site/"
+  command = "npm i markbind-cli -g && markbind build --baseUrl"
